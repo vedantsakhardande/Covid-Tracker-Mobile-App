@@ -65,6 +65,6 @@ Install Android Studio https://developer.android.com/studio
 
 <h1>App Screenshots</h1>
 <p>
-<img src="https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/blob/master/App/App%20Screenshots/Login.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/LoadingData.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/Global%20Data.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/Local%20Data.JPG?raw=true" width="200">
+<img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/Logo.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/LoadingData.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/Global%20Data.JPG?raw=true" width="200">  <img src="https://github.com/vedantsakhardande/Covid-Tracker-Mobile-App/blob/master/App%20Screenshots/Local%20Data.JPG?raw=true" width="200">
 </p>
 
